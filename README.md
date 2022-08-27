@@ -13,7 +13,7 @@ EXAMPLE 1:
   3
   Expected Output:
 </p>
-
+<p>
         * * * * 
         *
         *
@@ -22,6 +22,8 @@ EXAMPLE 1:
   *
 * * 
 *
+</p>
+<p>
 EXAMPLE 2:
   Input:
   2
@@ -31,4 +33,5 @@ EXAMPLE 2:
   * * 
 * * 
 *
+  </p>
 </p>
