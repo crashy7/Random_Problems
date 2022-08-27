@@ -1,9 +1,6 @@
 # Random_Problems
-## Problem_1
-
-  print_steps.py contains the solution to the following question: 
-  given N number of steps and the height of each step, print the 2D staircase that would result. (ASSUME ALL STEPS TO HAVE WIDTH=HEIGHT)
-
+## Problem_1 - STAIRCASE - Given N number of steps and the height of each step, print the 2D staircase that would result. (ASSUME ALL STEPS TO HAVE WIDTH=HEIGHT)
+print_steps.py contains the solution to the above question: 
 EXAMPLE 1:
 
   Input:
